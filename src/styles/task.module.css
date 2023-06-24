@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap:.5rem;
+    margin-bottom: 1rem;
+}
+
+.container input{
+    color:black;
+    outline: none;
+    border: none;
+    border-radius: .3rem;
+    font-size: 1.3rem;
+}
+
+.btnContainer{
+    display: flex;
+    gap:.5rem;
+}
+
+.btnContainer button{
+    background-color:blueviolet;
+    color:black;
+    padding: .3rem;
+    border-radius: .3rem;
+    border: none;
+    cursor: pointer;
+
+}

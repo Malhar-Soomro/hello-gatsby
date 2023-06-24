@@ -6,4 +6,8 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [],
+  siteMetadata: {
+    title: 'hello gatsby',
+    description: 'desc',
+  }
 }
